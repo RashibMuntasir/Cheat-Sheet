@@ -168,7 +168,8 @@
                 <strong>&lt;section&gt;...&lt;/section&gt;</strong>
                 <p>defines elements in a document such as chapters, headings or any other area of the document.</p>
             </div>
-
+            <p>This is enough for now</p>
+            <p>So, what happened?</p>
 
         </div>
     </main>
